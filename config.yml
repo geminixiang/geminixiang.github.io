@@ -125,7 +125,7 @@ params:
     # https://jaredyam.github.io/posts/build-and-deploy-a-static-blog-website-with-hugo-and-github-pages/#%e6%b7%bb%e5%8a%a0%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f
     comments: true
     commentsParams:
-        repo: f416720001/geminixiang.github.io
+        repo: geminixiang/geminixiang.github.io
         repoId: MDEwOlJlcG9zaXRvcnkyNzY4Njc4OTI=
         category: Announcements
         categoryId: DIC_kwDOEICrNM4CQ4bL
