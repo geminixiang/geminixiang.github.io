@@ -13,7 +13,7 @@ cover:
 
 # Golang 簡易聊天室
 
-[f416720001/simple_chat](https://github.com/f416720001/simple_chat)
+[f416720001/simple_chat](https://github.com/geminixiang/simple_chat)
 
 這周末學習了與MongoDB，使用了 mgo、mongo-go-driver 這兩個套件去學習，但...上手還需要一陣子，太久沒使用強型別，很多地方都還需要適應。
 

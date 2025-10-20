@@ -1,4 +1,4 @@
-baseURL: https://f416720001.github.io/
+baseURL: https://geminixiang.github.io/
 languageCode: zh-tw
 defaultContentLanguage: zh-tw
 title: GeminiXiang
@@ -89,11 +89,11 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/f416720001"
+          url: "https://github.com/geminixiang"
         - name: linkedin
           url: "https://www.linkedin.com/in/%E6%98%A0%E7%BF%94-%E8%B6%99-567669196/"
         - name: cakeresume
-          url: "https://www.cakeresume.com/f416720001-2011c8"
+          url: "https://www.cakeresume.com/geminixiang-2011c8"
 
     # analytics:
     # google:
@@ -105,7 +105,7 @@ params:
         hiddenInSingle: false # hide on single page
 
     editPost:
-        URL: "https://github.com/f416720001/f416720001.github.io"
+        URL: "https://github.com/geminixiang/geminixiang.github.io"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -125,7 +125,7 @@ params:
     # https://jaredyam.github.io/posts/build-and-deploy-a-static-blog-website-with-hugo-and-github-pages/#%e6%b7%bb%e5%8a%a0%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f
     comments: true
     commentsParams:
-        repo: f416720001/f416720001.github.io
+        repo: f416720001/geminixiang.github.io
         repoId: MDEwOlJlcG9zaXRvcnkyNzY4Njc4OTI=
         category: Announcements
         categoryId: DIC_kwDOEICrNM4CQ4bL

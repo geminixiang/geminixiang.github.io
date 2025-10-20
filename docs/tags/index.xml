@@ -1,78 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 映翔</title>
-    <link>https://f416720001.github.io/tags/</link>
-    <description>Recent content in Tags on 映翔</description>
-    <image>
-      <url>https://f416720001.github.io/DSC01583.JPG</url>
-      <link>https://f416720001.github.io/DSC01583.JPG</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hant-TW</language>
-    <lastBuildDate>Wed, 17 Aug 2022 15:55:28 +0800</lastBuildDate><atom:link href="https://f416720001.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on GeminiXiang</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on GeminiXiang</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 04 Sep 2022 23:27:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>aws</title>
-      <link>https://f416720001.github.io/tags/aws/</link>
+      <title>Gin</title>
+      <link>http://localhost:1313/tags/gin/</link>
+      <pubDate>Sun, 04 Sep 2022 23:27:44 +0800</pubDate>
+      <guid>http://localhost:1313/tags/gin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Sun, 04 Sep 2022 23:27:44 +0800</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melody</title>
+      <link>http://localhost:1313/tags/melody/</link>
+      <pubDate>Sun, 04 Sep 2022 23:27:44 +0800</pubDate>
+      <guid>http://localhost:1313/tags/melody/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Websocket</title>
+      <link>http://localhost:1313/tags/websocket/</link>
+      <pubDate>Sun, 04 Sep 2022 23:27:44 +0800</pubDate>
+      <guid>http://localhost:1313/tags/websocket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 17 Aug 2022 23:03:53 +0800</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/tags/tips/</link>
+      <pubDate>Wed, 17 Aug 2022 23:03:53 +0800</pubDate>
+      <guid>http://localhost:1313/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Wed, 17 Aug 2022 15:55:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/aws/</guid>
+      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>emr</title>
-      <link>https://f416720001.github.io/tags/emr/</link>
+      <title>Emr</title>
+      <link>http://localhost:1313/tags/emr/</link>
       <pubDate>Wed, 17 Aug 2022 15:55:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/emr/</guid>
+      <guid>http://localhost:1313/tags/emr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker</title>
-      <link>https://f416720001.github.io/tags/docker/</link>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Mon, 15 Aug 2022 10:24:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
-      <link>https://f416720001.github.io/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Mon, 15 Aug 2022 10:24:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>trick</title>
-      <link>https://f416720001.github.io/tags/trick/</link>
+      <title>Trick</title>
+      <link>http://localhost:1313/tags/trick/</link>
       <pubDate>Mon, 15 Aug 2022 10:24:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/trick/</guid>
+      <guid>http://localhost:1313/tags/trick/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>registry</title>
-      <link>https://f416720001.github.io/tags/registry/</link>
+      <title>Registry</title>
+      <link>http://localhost:1313/tags/registry/</link>
       <pubDate>Mon, 15 Aug 2022 09:24:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/registry/</guid>
+      <guid>http://localhost:1313/tags/registry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
-      <link>https://f416720001.github.io/tags/hugo/</link>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sun, 14 Aug 2022 23:24:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

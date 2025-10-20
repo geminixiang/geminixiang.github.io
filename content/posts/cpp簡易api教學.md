@@ -116,4 +116,4 @@ int main() {
 即可看到 Hello world.
 
 
-以上就是這次的簡易教學，相關code有放置在 [github-demo](https://github.com/f416720001/cpp-webapi)，可以git clone 下來把玩。
+以上就是這次的簡易教學，相關code有放置在 [github-demo](https://github.com/geminixiang/cpp-webapi)，可以git clone 下來把玩。
