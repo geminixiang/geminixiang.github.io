@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://f416720001.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/gin/</loc>
+    <loc>http://localhost:1313/tags/gin/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/go-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-vol.1/</loc>
+    <loc>http://localhost:1313/posts/go-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-vol.1/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/golang/</loc>
+    <loc>http://localhost:1313/tags/golang/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/melody/</loc>
+    <loc>http://localhost:1313/tags/melody/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/websocket/</loc>
+    <loc>http://localhost:1313/tags/websocket/</loc>
     <lastmod>2022-09-04T23:27:44+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/cpp%E7%B0%A1%E6%98%93api%E6%95%99%E5%AD%B8/</loc>
+    <loc>http://localhost:1313/posts/cpp%E7%B0%A1%E6%98%93api%E6%95%99%E5%AD%B8/</loc>
     <lastmod>2022-08-27T16:47:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2022-08-17T23:03:53+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/tips/</loc>
+    <loc>http://localhost:1313/tags/tips/</loc>
     <lastmod>2022-08-17T23:03:53+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81100vh-v.s.-%E7%B6%B2%E5%9D%80%E5%88%97/</loc>
+    <loc>http://localhost:1313/posts/%E6%89%8B%E6%A9%9F%E7%B6%B2%E9%A0%81100vh-v.s.-%E7%B6%B2%E5%9D%80%E5%88%97/</loc>
     <lastmod>2022-08-17T23:03:53+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/aws/</loc>
+    <loc>http://localhost:1313/tags/aws/</loc>
     <lastmod>2022-08-17T15:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</loc>
+    <loc>http://localhost:1313/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</loc>
     <lastmod>2022-08-17T15:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/emr/</loc>
+    <loc>http://localhost:1313/tags/emr/</loc>
     <lastmod>2022-08-17T15:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2022-08-15T10:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/docker-timezone-%E6%99%82%E5%8D%80%E5%95%8F%E9%A1%8C/</loc>
+    <loc>http://localhost:1313/posts/docker-timezone-%E6%99%82%E5%8D%80%E5%95%8F%E9%A1%8C/</loc>
     <lastmod>2022-08-15T10:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2022-08-15T10:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/python-%E8%85%A6%E7%AD%8B%E6%80%A5%E8%BD%89%E5%BD%8E/</loc>
+    <loc>http://localhost:1313/posts/python-%E8%85%A6%E7%AD%8B%E6%80%A5%E8%BD%89%E5%BD%8E/</loc>
     <lastmod>2022-08-15T10:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/trick/</loc>
+    <loc>http://localhost:1313/tags/trick/</loc>
     <lastmod>2022-08-15T10:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/docker-private-registry%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://localhost:1313/posts/docker-private-registry%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-08-15T09:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/registry/</loc>
+    <loc>http://localhost:1313/tags/registry/</loc>
     <lastmod>2022-08-15T09:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2022-08-14T23:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/posts/hugo-%E6%9C%80%E6%96%B0%E7%89%88%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://localhost:1313/posts/hugo-%E6%9C%80%E6%96%B0%E7%89%88%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-08-14T23:24:28+08:00</lastmod>
   </url><url>
-    <loc>https://f416720001.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://f416720001.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://f416720001.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://f416720001.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

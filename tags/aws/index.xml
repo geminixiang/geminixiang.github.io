@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aws on GeminiXiang</title>
-    <link>https://f416720001.github.io/tags/aws/</link>
-    <description>Recent content in aws on GeminiXiang</description>
-    <image>
-      <url>https://f416720001.github.io/DSC01583.JPG</url>
-      <link>https://f416720001.github.io/DSC01583.JPG</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Aws on GeminiXiang</title>
+    <link>http://localhost:1313/tags/aws/</link>
+    <description>Recent content in Aws on GeminiXiang</description>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 17 Aug 2022 15:55:28 +0800</lastBuildDate><atom:link href="https://f416720001.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 15:55:28 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS EMR 模式差異</title>
-      <link>https://f416720001.github.io/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</link>
+      <link>http://localhost:1313/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</link>
       <pubDate>Wed, 17 Aug 2022 15:55:28 +0800</pubDate>
-      
-      <guid>https://f416720001.github.io/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</guid>
-      <description>奇怪的知識又增加了</description>
+      <guid>http://localhost:1313/posts/aws-emr-%E6%A8%A1%E5%BC%8F%E5%B7%AE%E7%95%B0/</guid>
+      <description>&lt;h1 id=&#34;mode&#34;&gt;Mode&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Client mode&lt;/li&gt;&#xA;&lt;li&gt;Cluster mode&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;差異點&#34;&gt;差異點&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;driver 放置的位置&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;driver放置於&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Client&lt;/td&gt;&#xA;          &lt;td&gt;Master&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cluster&lt;/td&gt;&#xA;          &lt;td&gt;Slave(Worker)其中一台&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;影響層面&#34;&gt;影響層面&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Memory 設定&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;啟動Job時，是否要指定memory的使用量&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Memory設定&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Client&lt;/td&gt;&#xA;          &lt;td&gt;都可&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cluster&lt;/td&gt;&#xA;          &lt;td&gt;指定比較優，因為driver預設2GB&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;機器壞掉時影響層面&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;EC2壞掉影響層面&lt;/th&gt;&#xA;          &lt;th&gt;worker記憶體量&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Client&lt;/td&gt;&#xA;          &lt;td&gt;千萬不能壞Master，需要額外的重啟流程&lt;/td&gt;&#xA;          &lt;td&gt;優&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cluster&lt;/td&gt;&#xA;          &lt;td&gt;壞帶有driver的worker時，master會協助重啟&lt;/td&gt;&#xA;          &lt;td&gt;少&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;小結論&#34;&gt;小結論&lt;/h2&gt;&#xA;&lt;p&gt;Client 適合中小型&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;適合情境&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Client&lt;/td&gt;&#xA;          &lt;td&gt;Master/Slave 在同一網路內&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cluster&lt;/td&gt;&#xA;          &lt;td&gt;Master/Slave 在不同網路內&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
-    
   </channel>
 </rss>
